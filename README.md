@@ -30,14 +30,15 @@ The project focuses on recreating Amazon's homepage interface, including its nav
 - **CSS3** – Styling, layouts, and Flexbox
 - **Font Awesome 7.0.1** – Icons
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 amazon-clone/
 │
 ├── index.html
 ├── style.css
 │
-└── assets/ 
+└── assets/
     ├── amazon_logo.png
     ├── hero_image.jpg
     ├── box1_image.jpg
@@ -48,17 +49,21 @@ amazon-clone/
     ├── box6_image.jpg
     ├── box7_image.jpg
     └── box8_image.jpg
+```
 
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
 
-   git clone https://github.com/ShyamKumarChaurasiya/Amazon-Clone
+   ```bash
+   git clone https://github.com/ShyamKumarChaurasiya/Amazon-Clone.git
+   ```
 
 2. Navigate to the project directory:
 
-   cd Amazon-clone
-
+   ```bash
+   cd amazon-clone
+   ```
 
 3. Open `index.html` in your browser.
 
@@ -88,5 +93,7 @@ All trademarks, logos, and brand names belong to their respective owners.
 **Shyam Kumar Chaurasiya**
 
 - GitHub: https://github.com/ShyamKumarChaurasiya
+
+---
 
 ⭐ If you like this project, feel free to explore the repository!
