@@ -30,14 +30,14 @@ The project focuses on recreating Amazon's homepage interface, including its nav
 - **CSS3** – Styling, layouts, and Flexbox
 - **Font Awesome 7.0.1** – Icons
 
-## 📂 Project Structure
+📂 Project Structure
 
 amazon-clone/
 │
 ├── index.html
 ├── style.css
 │
-└── assets/
+└── assets/ 
     ├── amazon_logo.png
     ├── hero_image.jpg
     ├── box1_image.jpg
